@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the upright in heart, and faithful people of God being an epistle written in Barbado's the 3d of the 9th month, 1662 / by John Perrot.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54447</idno>
+            <idno type="STC">Wing P1635</idno>
+            <idno type="STC">ESTC R3554</idno>
+            <idno type="EEBO-CITATION">13192202</idno>
+            <idno type="OCLC">ocm 13192202</idno>
+            <idno type="VID">98382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the upright in heart, and faithful people of God being an epistle written in Barbado's the 3d of the 9th month, 1662 / by John Perrot.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98382:1" rendition="simple:additions"/>
+            <p>TO THE Upright in Heart, And FAITHFUL PEOPLE of GOD: BEING AN EPISTLE WRITTEN IN BARBADO'S The 3d. of the 9th. Month, 1662.</p>
+            <p>By <hi>JOHN PERROT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98382:2"/>
+            <pb n="3" facs="tcp:98382:2"/>
+            <head>TO THE Upright in Heart, And FAITHFUL PEOPLE of GOD:</head>
+            <p>PEace in God be multiplied to the whole Flock in the Fold of our Lord Jeſus, whom I dearly ſalute in the unceſſant flowing Love of Life, being both full and free to the tendereſt, loweſt and pooreſt of the living Heritage of the living God, yea, to all, not reſpecting the <hi>Perſon</hi> of any, but greatly prizing the <hi>Life</hi> of all.</p>
+            <p>Ah! my dear Brethren and Siſters, I am often filled with a pure remembrance of you, glorifying God in your behalfs, in that you are what the God of Love and Peace hath made you in himſelf; and alſo, am frequently proſtrated before the Lord in the Spirit of Supplication and Prayer in your behalfs, That as God hath made you to live, ſo that your Life may be continued in him; and as he hath caſt his Love upon you, and given his Peace unto you, ſo you may live in Love and Peace with all men, even as much as in you it may lie, that it may appear, that you are the Children of the God of Peace, by keeping your Conſciences clean and pure, according to the Word of Truth and Righteouſneſs, in all your hearts and ſouls,
+<pb n="4" facs="tcp:98382:3"/>
+that ſo your Joy may abound and continue with you, through the holy Ghoſt's living and abiding in you, ever acted in obedience to it, according to all its ſtirrings and motions in your pure minds.</p>
+            <p>And my Father's beloved Lambs, I have a few words unto you, which you may (divers of you) at the immediate hear<g ref="char:EOLhyphen"/>ing them, witneſs unto, or in the fulneſs of appointed time in the Father, be by Him made like-minded in the ſelf-ſame thing and matter.</p>
+            <p>Hear ye therefore the ſound of the Spirit's voice in me, and let it enter into the ballance of the Sanctuary in you, that all may know its full weight in the more full and clear manifeſta<g ref="char:EOLhyphen"/>tion of the day, and aſcention of the brightneſs of the Sun in his glory, which hath already bleſſedly ſhined into our hearts, and given us to ſee ſomewhat of himſelf; having received in himſelf a far more amiable Beauty, Reſplendency and Glory yet undiſcovered, but hath promiſed ſhall be revealed in many ſouls, and therefore we may reſt in a living hope, and in our hope believe and obey the voice of his Life in us.</p>
+            <p>This in brief is the matter of Advice which I have to com<g ref="char:EOLhyphen"/>municate unto you. Take heed of judging the tender Con<g ref="char:EOLhyphen"/>ſcience of any man, leſt you ſhould do the thing which diſ<g ref="char:EOLhyphen"/>pleaſeth the mind of God: For the Conſcience is that ſeat which his Glorious Majeſty will rule and reign in, even to the end of all Generations; and whoſoever would have a predo<g ref="char:EOLhyphen"/>minancy there, him will the Lord humble in his time, and make ſuch mortal fleſh to know that <hi>He is God,</hi> and is not tyed to any thing of man, but can and will appear as he willeth, when, where, how, and in whom he will; and who ſhall ſay unto him, I will reſiſt thy Will, and not be confounded by the Infinit and Everlaſting Power of his Will?</p>
+            <p>And, that not any <hi>Raſhneſs</hi> nor <hi>Uncharitableneſs</hi> may inhabit in the heart of any towards his Brother or Friend, Neighbour
+<pb n="5" facs="tcp:98382:3"/>
+or Enemy, conſider all ye Plants that are already riſen up in the Seed, and are growing in the increaſe of God, that in the increaſe of Love you may abound in the glory of the moſt glo<g ref="char:EOLhyphen"/>rious Life of your God. I ſay, let your cogitations be a little exerciſed, in the conſideration of Chriſt, being the ſlain Lamb by the power of death, (before the Covenant with <hi>Abraham,</hi> and reviving of the Law in and by <hi>Moſes</hi>) and yet his ſpilt Blood had a little living motion in man's body of death, and ſtrove to work through it before <hi>Moſes,</hi> which was one Diſ<g ref="char:EOLhyphen"/>penſation of the Power and Doctrine of God, and therefore may not be judged by man, neither the Diſpenſation in man, nor man in the Diſpenſation.</p>
+            <p>Again, conſider, That Chriſt was in the Law, as being the ſum of the Law in the day that <hi>Moſes</hi> diſpenſed it to <hi>Iſrael,</hi> yet <hi>Iſrael</hi> knew not Chriſt in the Law, but feared God there<g ref="char:EOLhyphen"/>in, and ſo far they were not judged, but juſtified of him; which may ſtill teach, inſtruct, and edifie us in his own Cha<g ref="char:EOLhyphen"/>rity, that we never go out of it to judge any.</p>
+            <p>Again, conſider, That Chriſt was the Preachings of the Pro<g ref="char:EOLhyphen"/>phets and Life of their Prophecies, which the Tribes of <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s houſe had not a Witneſs of, was wrought in themſelves; nor was he ſo perfectly ſeen by the Prophets, as to be born in their fleſh; yet walked they in the fear of their God, and were not condemned, but juſtified of their God: Which may teach us all the Charity of our God in every caſe of judging another man's Conſcience to God-wards.</p>
+            <p>Again, conſider, That Chriſt was manifeſt in the fleſh, born of the bleſſed <hi>Virgin Mary,</hi> and was believed on by Diſciples, before the revelation of his Life in the Spirit, and in that ſtate they were not condemned but inſtructed, until the fleſh vaniſhed, and Spirit more gloriouſly appeared, re<g ref="char:EOLhyphen"/>vealing unto man, what he ſhould be in all manner of life, both towards God and towards man: Which may teach us all, that wherein we ſee any that are in a Diſpenſation which is of God,
+<pb n="6" facs="tcp:98382:4"/>
+whilſt yet the Conſcience that is of God ſees none other thing to be favourable and tender, not impoſing the ſentence of Re<g ref="char:EOLhyphen"/>probation on them becauſe they are not where we are, but ra<g ref="char:EOLhyphen"/>ther inſtruct them by Life or Doctrine of the Spirit in us, or Precept or Preſident of the holy men of God of old, as the Spirit of Charity leadeth us thereunto; the which Charity being the Original and firſt Life, is likewiſe the laſt Diſpen<g ref="char:EOLhyphen"/>ſation of Glory, in which all Glories and Fulneſs are concea<g ref="char:EOLhyphen"/>led, and which ends all other Diſpenſations of Thunders, Earthquakes, Curſings and Smitings; but notwithſtanding al<g ref="char:EOLhyphen"/>ſo that, it is the laſt and utmoſt, and as well the Determiner of all other Diſpenſations; and though a ſweet proportion there<g ref="char:EOLhyphen"/>of is already revealed, yet there is ſo much thereof to be fur<g ref="char:EOLhyphen"/>ther revealed, that my Faith is ſuch concerning the Fulneſs thereof that I am waiting for the ſame, as for another Diſpen<g ref="char:EOLhyphen"/>ſation to break forth in a greater power than yet hath appear<g ref="char:EOLhyphen"/>ed; and therefore, I ſay, if my ſervice is paſſing over, in one certain labour or travel, to ſee another riſe in the greater Glo<g ref="char:EOLhyphen"/>ry that is waited for, I believe I can and ſhall rejoyce, glo<g ref="char:EOLhyphen"/>rifying God in beholding that which my ſoul longs to ſee brought forth by the Inſtruments of his own choice, whoſo<g ref="char:EOLhyphen"/>ever they may be in the whole Earth; for I ſee this, that God is not bound unto fleſh, nor limited to the ſon of man, and every man hath his ſervice for an hour of the day until ano<g ref="char:EOLhyphen"/>ther cometh. So <hi>perfect Patience,</hi> and <hi>perfect Content,</hi> gives <hi>perfect Peace</hi> in all ſuch conditions. And after the foregoing conſiderations, concerning Judgment, out of what it ſhould, and in what it ought to be towards every <hi>tender Conſcience,</hi> I have yet to ſpeak forth a word of experience, as one which through ſufferings, and great ſufferings, have attained to the experience of it; which becauſe I have waded through two Seas of oppreſſive afflictions, and travelled through two Lands of Tribulations, I may be a little liſſened unto by ſome of the little ones, which are willing and faithful Followers of the Lamb whitherſoever he goeth, who through ſufferings over<g ref="char:EOLhyphen"/>cometh all things; Wherefore to ſuch I ſay,</p>
+            <p>
+               <pb n="7" facs="tcp:98382:4"/>I have ſeen three Brethren of the houſe and tribes of <hi>Iſrael,</hi> of three Judgments concerning one caſe, and very frequently ſix of their Families, three of them of one Judgment, and three of them of another Judgment touching one caſe; and becauſe of the oppoſitneſs of their Judgments (both held in a certain ſtrong zeal) have had hard thoughts one of another; and then I have ſeen a ſeventh ſoul that righteouſly ſaid, that neither of their Judgments were found in God's Eternal Word; and then the ſaid ſeventh ſoul uttered words in the Spirit's Life, ſaying, I ſee an even plain path between thoſe two, in which is written, <hi>(viz.) Patience, Humility, Moderation,</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> can judge the caſe in equity; and the ſeventh ſoul alſo ſaw the infirmities of the other ſix in their hard thoughts of the three againſt three, yet had that charity to pitty them be<g ref="char:EOLhyphen"/>cauſe of infirmity; ſo that that ſoul could not therefore judge and condemn any of them for the cauſe that their beings were (really of God) in ſeveral Diſpenſations, for which there was a Zeal more in the paſſionate part, than the pure temperate Love; ſo that though the ſimple ſentence of the caſe by each of them might be true in themſelves, according to the Diſpen<g ref="char:EOLhyphen"/>ſations that they were in, whereby they ſinned not, but ſuffered by the inordinate, or ſomewhat incompoſed Zeal, not being ſo fully in the Love which gives the ſoundeſt knowledge, yet as the caſe ſtood in another ſoul, in another Diſpenſation, that was weightier, and abſolutely true in God the Diſcoverer of the Good, neither of both the other Judgments could reach unto it righteouſly to juſtifie or condemn it, and therefore in ſuch caſes I am taught, fear, leſt I ſhould err in ſeeking to wreſt other mens Conſciences.</p>
+            <p>I might alſo ſtand forth in an enquiry, ſaying, <hi>What is it of God that may appear new, freſh, and living in man?</hi> but that Enemies to God, which cannot comprehend it, will give ſundry Verdicts concerning it; or, that many Children, being ſome weak in themſelves, others byaſſed by ſome certain o<g ref="char:EOLhyphen"/>ther mens Opinions, others tinctured with ſome ſecret drops of prejudice in the more internal part, but alſo in the like
+<pb n="8" facs="tcp:98382:5"/>
+caſe, will judge amiſs concerning it, and as different and divers, as the others which knew not God; by which (through ſufferings) I am taught the fear of God, not to exalt my ſelf as King or Lord in another man's Conſcience, but do leave that to God, as his Throne and proper ſeat to rule in.</p>
+            <p>And this alſo makes my Soul tender towards all tender Conſciences, becauſe I ſee a Life in God which (I am ſure) is unſpeakably beyond that which in me is already wrought by God, and yet I call this <hi>good</hi> where I am, being what I am made by the pure, everlaſting Power of God: and whoſoever is in ſuch a Life as is mentioned to be beyond me, I would not that he ſhould judge and condemn me being in the place (though but a low place) where the Lord of his Love and Mercy hath put me, and therefore would not willingly do that to any one, which I would not another ſhould do unto me.</p>
+            <p>Now, dear Children, mine eye is looking forwards; for the ſpurs of Affliction have been ſtuck in my ſides, and the goad of Perſecution hath ſorely pricked me; in all which I rejoyce in the conſolation of God, becauſe through all, I have been and am daily taught; though thereby I cannot juſtifie any in evil, but bleſs and praiſe my God for ſuffering it all to work for my good; inſomuch that I can ſay, he hath <hi>begun his work of Charity in my Soul,</hi> having alſo given me to <hi>ſee,</hi> that yeſterday I did the thing in righteouſneſs, in which I was then juſtified of him, which I ſhould be aſhamed (be<g ref="char:EOLhyphen"/>fore him) to do the like to day; and I am perſwaded that I do do this day thoſe things in truth, purity, and righteouſneſs, that to morrow I may be alſo aſhamed to do; and therefore I am taught in Faith to mind only the immediate Juſtification of the immediate day, and let all the old things vaniſh and paſs away; and ſo carry the ſenſe of each dayes juſtification in my heart, that <hi>Satan</hi> may never dart in <hi>unbelief</hi> and <hi>diſtruſt,</hi> or infuſe <hi>reaſonings,</hi> which may beget certain <hi>ſuſpitions</hi> and <hi>doubtings;</hi> and ſo alwayes (as I have ſaid) am deſirous to
+<pb n="9" facs="tcp:98382:5"/>
+look forward, never limiting God's Power, but willing that it ſhould work whatſoever pleaſeth him in my Soul, that he may be ever known to be the Soveraign, and I the poor Subject, waiting for his Will, in his ſtrength to do it, in which I deſire ye all may be like minded with me, that peace and pretious joy in the Holy Ghoſt may exceedingly abound in and among you.</p>
+            <p>And now as a man of <hi>ſorrows,</hi> and one that hath been large<g ref="char:EOLhyphen"/>ly acquainted with <hi>grief</hi> every way, I cannot but ſignifie to the <hi>Mourners in Iſrael,</hi> and <hi>Sorrowers in Sion,</hi> that in all your <hi>griefs</hi> for the Lord and his Kingdoms ſake, I am willing to be ever found with you, weeping with them that weep, hunger<g ref="char:EOLhyphen"/>ing with them that hunger, bruiſed with them that are bruiſed, and cruſhed with thoſe poor, whoſe faces are ground between the hard Milſtones, and can gladly bear of your burthens that you may be a little eaſed by the little help which my weakneſs in God's ſtrength, can aſſiſt you with; for Oh, Oh! my ten<g ref="char:EOLhyphen"/>der Soul is even full, and deſireth to be more filled with the tender Spirit of Compaſſion and Sympathy, and therefore remembring the <hi>Poor,</hi> I am Spiritually become a <hi>Prayer;</hi> and having thought of the <hi>Grieved,</hi> I am become a <hi>Groan;</hi> and conſidering the ſtates of the <hi>heavily Oppreſſed,</hi> I am a <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> to the <hi>God of pities,</hi> that they all may be conſolated in that Power that hath made them live to ſuffer, that through the ſufferings of the Lamb, they may be all perfected in the glorious Life of the Lamb, that the day may follow and come to paſs of the flying ſwiftly away of all the ſighs and ſorrows which did deject and oppreſs them, but ſhall no more return to diſcomfort them, but leave a full joy behind them in this reſpect, <hi>That their poor Souls were counted worthy in the Lamb's Life, to travel ſuch a Pilgrimage, that in the end they might in<g ref="char:EOLhyphen"/>herit ſo pleaſant a Poſſeſſion.</hi>
+            </p>
+            <p>Dearly Saluting all Priſoners and Free-men in the Cauſe of the Free Goſpel of our Lord Jeſus; this may import to you all, That as concerning Truth in this Iſland, it is proſperous,
+<pb n="10" facs="tcp:98382:6"/>
+many now are become liſſeners to it, and its favour is good a<g ref="char:EOLhyphen"/>mongſt moſt; and touching the Faithful Friends of it, their Obedience keeps them in Love and Peace together, which I truſt alſo will yet much more encreaſe and abound among all: And now ſurely I can ſay the bleſſings of God are on <hi>Bar<g ref="char:EOLhyphen"/>bados,</hi> beholding that abundance of ſimple and ſingle Love which I ſee, feel, and enjoy in the hearts of the ſimple, one towards another, which is a great refreſhment unto me after many weary dayes, in that I can alſo ſay his own right hand brought me hither in bleſſing, and put me among pretious Plants of Peace, that we might eat of the Grapes of Glad<g ref="char:EOLhyphen"/>neſs, and ripe Cluſters of Joy in the Manſions of our Fathers Mercies together; and here I find not the former need of a <hi>Shield</hi> and <hi>Buckler</hi> in my Friends houſe, for the <hi>ſharp Weapons of War</hi> are not <hi>handled</hi> within our joynt Habitations, but are <hi>reſerved</hi> for ſervice againſt the Armies of <hi>Aliens;</hi> and yet alſo I can ſay, that God is making the <hi>point</hi> of each mans <hi>Spear,</hi> the <hi>Arrow</hi> in each mans <hi>Quiver,</hi> and <hi>Sword</hi> at each mans <hi>ſide,</hi> Love to Enemies, which kills the Enmity, and raiſeth Life in Simplicity, to the honour of him, whoſe bleſ<g ref="char:EOLhyphen"/>ſed Work it is, who in all his Works is worthy of Glory and everlaſting Praiſe, even for ever and ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>In whoſe Love I live, Your refreſhed Brother,</hi> J. P.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
